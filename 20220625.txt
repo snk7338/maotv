@@ -1038,5 +1038,5 @@
         "cms.qdwght.com"
     ],
     "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://raw.nite07.com/t/0625.jar"
+    "spider": "https://351056782.github.io/maotv/20220625.jar"
 }
